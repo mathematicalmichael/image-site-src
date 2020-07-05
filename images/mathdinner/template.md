@@ -5,7 +5,7 @@ image:
 title: "IMAGE_NAME"
 summary: "ALBUM_NAME"
 description: "IMAGE_NAME"
-date: DATE
+date: "DATE"
 iso: ISO
 lens: FOCAL
 fstop: FSTOP
