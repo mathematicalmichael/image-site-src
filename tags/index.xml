@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>architecture</title>
-      <link>/tags/architecture/</link>
+      <title>aesthetic</title>
+      <link>/tags/aesthetic/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/architecture/</guid>
+      <guid>/tags/aesthetic/</guid>
       <description></description>
     </item>
     
@@ -39,20 +39,29 @@
     </item>
     
     <item>
-      <title>selfies</title>
-      <link>/tags/selfies/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/selfies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mathdinner</title>
       <link>/tags/mathdinner/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mathdinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>losangeles</title>
+      <link>/tags/losangeles/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/losangeles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>/tags/workshop/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/workshop/</guid>
       <description></description>
     </item>
     

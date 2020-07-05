@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>/tags/architecture/</loc>
+        <loc>/tags/aesthetic/</loc>
         <lastmod>2020-01-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -189,11 +189,6 @@
     </url>
     
     <url>
-        <loc>/tags/selfies/</loc>
-        <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
         <loc>/tags/</loc>
         <lastmod>2020-01-24T00:00:00+00:00</lastmod>
     </url>
@@ -206,35 +201,7 @@
     </url>
     
     <url>
-        <loc>/l1020793/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/l1020794/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>/l1020795/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/l1020797/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/l1020800/</loc>
         <lastmod>2020-01-15T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -276,27 +243,6 @@
     </url>
     
     <url>
-        <loc>/l1020826/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/l1020827/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/l1020829/</loc>
-        <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>/l1020838/</loc>
         <lastmod>2020-01-15T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -306,6 +252,310 @@
     <url>
         <loc>/tags/mathdinner/</loc>
         <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>/l1010977/</loc>
+        <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010975/</loc>
+        <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010936/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010941/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010949/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010951/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010956/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010958/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/losangeles/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>/l1010787/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010788/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010789/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010792/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010795/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010802/</loc>
+        <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010747/</loc>
+        <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010760/</loc>
+        <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010586/</loc>
+        <lastmod>2019-11-24T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010580/</loc>
+        <lastmod>2019-11-23T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010552/</loc>
+        <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010556/</loc>
+        <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010561/</loc>
+        <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010485/</loc>
+        <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010404/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010408/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010416/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010420/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010421/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010424/</loc>
+        <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010166/</loc>
+        <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010168/</loc>
+        <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010021/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010022/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010028/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010052/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010068/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010070/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010077/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010085/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010088/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010111/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010121/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/l1010123/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/workshop/</loc>
+        <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     </url>
     
 </urlset>
